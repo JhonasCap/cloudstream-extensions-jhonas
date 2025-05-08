@@ -1,9 +1,6 @@
 {
-  "name": "Extension Jhonas",
-  "description": "Mi primera extensión de prueba.",
+  "name": "Jhonas Repo",
+  "description": "Mis primeras extensiones para Cloudstream",
   "manifestVersion": 1,
-  "version": "1.0.0",
-  "plugin": "jhonas.hola",
-  "source": "Mi propia creación",
-  "authors": ["Jhonas"]
+  "pluginLists": []
 }
