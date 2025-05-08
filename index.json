@@ -1,7 +1,3 @@
-{
-  "name": "Jhonas Repo",
-  "description": "Mi primer repositorio de extensiones para Cloudstream",
-  "manifestVersion": 1,
-  "pluginLists": [],
-  "repositories": []
-}
+[
+  "manifest.json"
+]
