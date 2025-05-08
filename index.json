@@ -1,6 +1,7 @@
 {
   "name": "Jhonas Repo",
-  "description": "Mis primeras extensiones para Cloudstream",
+  "description": "Mi primer repositorio de extensiones para Cloudstream",
   "manifestVersion": 1,
-  "pluginLists": []
+  "pluginLists": [],
+  "repositories": []
 }
