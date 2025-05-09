@@ -1,10 +1,1 @@
-{
-  "name": "AnimeFLV Navegador",
-  "description": "Extensión navegador para ver anime en AnimeFLV.one",
-  "version": "1.0.0",
-  "type": "navi",
-  "url": "https://vww.animeflv.one/animes",
-  "icon": "https://i.imgur.com/1Vq2Gxt.png",
-  "language": "es",
-  "manifestVersion": 1
-}
+
